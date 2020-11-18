@@ -1,0 +1,883 @@
+@media(max-width:1900px) {
+    .breadcrumb .item-1 {
+    margin-left: 14%!important;
+}
+}@media (max-width:1400px) {
+    .section-content {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.breadcrumb .item-1 {
+    margin-left: 2%!important;
+}
+.sellpro .ekart {
+    padding-right: 2%!important;
+}
+.nav-home-aside {
+    padding-bottom: 20px;
+    height: 100%;
+    width: auto;
+}
+.nav-home-aside .more-category1 li {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+}@media (max-width:1200px) {
+.inner {
+    font-size: 0.7rem;
+}
+.item img {
+    max-width: 150px;
+    position: relative;
+    left: 55%;
+}
+.category-item-card .title{
+    max-width: 175px;  
+}
+.category-item-card .subtitle{
+    max-width: 175px; 
+}
+.sellpro .ekart {
+    padding-right: 1.2rem!important;
+}
+.buttonicon {
+    margin-top: 10%;
+}
+.section-content {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.nav-home-aside {
+    padding-bottom: 20px;
+    height: 100%;
+    width: auto;
+}
+.nav-home-aside .more-category1 li {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+.breadcrumb .item-1 {
+    margin-left: 2%!important;
+}
+.card {
+    width: auto;
+    height: auto;
+}
+.card-sm {
+    height: 320px!important;
+    width: auto;
+    margin: 5px auto;
+}
+.card-product-grid {
+    width: auto;
+    margin-right: -19px;
+    overflow: hidden;
+}
+.card-product-trend {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.card-deal {
+    width: auto;
+    height: auto;
+}
+.gridviewdiv {
+    width: auto;
+}
+#list {
+    margin-left: 0;
+}
+.img-event .img-fluid {
+    max-width: 100%;
+}
+
+.item1 .title {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+.description1 {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+.description {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+[class*=card-product] a.title {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+}@media(max-width:1040px) {
+.section-content {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.item img {
+    max-width: 150px;
+    position: relative;
+    left: 48%;
+}
+.category-item-card .title{
+    max-width: 130px;  
+}
+.category-item-card .subtitle{
+    max-width: 130px; 
+}
+.inner select  {
+    width: 6vw;
+}
+.buttonicon {
+    margin-top: 10%;
+}
+.inner {
+    margin:  0 auto;
+    width:  auto;
+    left: 8%;
+}
+.sellpro .ekart {
+    padding-right: 0!important;
+}
+.breadcrumb .item-1 {
+    margin-left: 2%!important;
+}
+.description {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+[class*=card-product] a.title {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+.gridviewdiv {
+    width: auto;
+}
+#list {
+    margin-left: 0;
+}
+.card-sm {
+    height: 320px;
+    width: auto;
+    margin: 5px auto;
+}
+.card-product-trend {
+    width: auto!important;
+    height: auto!important;
+}
+.card-deal {
+    width: auto;
+    height: auto!important;
+}
+.well1 button.btn {
+    width: auto!important;
+    margin-left: -8px;
+}
+.well1 .input-group {
+    width: auto;
+    justify-content: center;
+}
+.nav-home-aside {
+    padding-bottom: 20px;
+    height: 100%;
+    width: auto;
+}
+.nav-home-aside .more-category1 li {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+}@media (max-width:992px) {
+.breadcrumb .item-1 {
+    margin-left: 2%!important;
+}
+.sellpro .ekart {
+    padding-right: 0!important;
+}
+
+.category-item-card {
+    display: grid;
+    height: 20rem;
+    width: auto;
+    margin-bottom: 2rem;
+}
+.category-item-card img{
+    position: relative;
+    top:0;
+    left:25%;
+    margin-top:5%;
+}
+.category-item-card .overlay-text{
+    position: relative;
+    left: 0;
+    margin-top:-15%;
+}
+.category-item-card .title{
+    max-width: 75%;  
+}
+.category-item-card .subtitle{
+    max-width: 75%; 
+}
+.buttonicon {
+    margin-top: 10%;
+}
+.inner {
+    margin:  0 auto;
+    width:  auto;
+    left: 5%;
+}
+.card-sm {
+    height: 320px;
+    width: auto;
+    margin: 5px auto;
+}
+.loginhover {
+    margin: auto!important;
+}
+.cartside {
+    margin: auto!important;
+}
+.col-md-9 {
+    flex: 1 1 65%!important;
+}
+.card-product-trend {
+    width: auto;
+    height: auto;
+}
+.card-deal {
+    width: auto;
+    height: auto;
+}
+.img-wrap {
+    width: auto!important;
+    height: auto;
+    overflow: hidden;
+}
+.well1 .input-group {
+    text-align: center;
+    margin: 8% auto;
+    justify-content: center;
+}
+.well1 button.btn {
+    width: 57%;
+    height: 35px;
+}
+.well1 input.btn.btn-lg {
+    width: 42%;
+    margin-right: 1px;
+    height: 35px;
+}
+.gridviewdiv {
+    width: auto;
+}
+.filter .custom-control {
+    padding-left: 0;
+}
+#list {
+    margin-left: 0;
+}
+.description {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+[class*=card-product] a.title {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+.description1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.card-title {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+.nav-home-aside {
+    padding-bottom: 20px;
+    height: 100%;
+    width: auto;
+    height: 100%}
+.nav-home-aside .menu-category li:hover .submenu {
+    display: block!important;
+    margin-left: 0;
+}
+.nav-home-aside .more-category1 li {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+#navContainer .active {
+    position: static!important;
+    width: 100%!important;
+    display: block!important;
+}
+.nav-home-aside .menu-category li:hover .submenu {
+    display: none!important;
+    margin-left: 0;
+}
+}
+@media (max-width:768px) {
+.productdetails2 {
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+}
+.inner select  {
+    width: auto;
+}
+.inner {
+    left: 5%;
+}
+.card {
+    width: 100%;
+    height: auto;
+}
+.sellpro .ekart {
+    padding-right: 0!important;
+}
+.productdetails1 {
+    padding-left: 5%!important;
+    padding-bottom: 0;
+}
+.footer-big .container {
+    padding-left: 0;
+}
+.col-md-4 {
+    margin-bottom: 5px;
+}
+.description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.title {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+.card-title {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+[class*=card-product] a.title {
+    overflow: hidden!important;
+    max-width: auto;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+    text-transform: capitalize;
+}
+.search-header {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    margin-left: 20px;
+}
+.category-item-card {
+    display: grid;
+    height: 20rem;
+    width: auto;
+}
+.category-item-card img{
+    position: relative;
+    top:0;
+    left: 15%;
+    margin-top:5%;
+}
+.category-item-card .overlay-text{
+    position: relative;
+    left: 0;
+    margin-top:-15%;
+}
+.category-item-card .title{
+    max-width: 170px;  
+}
+.category-item-card .subtitle{
+    max-width: 170px; 
+}
+.card-popular-category {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    height: 100%!important;
+    width: auto;
+}
+.card-popular-category img {
+    position: relative;
+    top: 0;
+}
+.card-popular-category .text-wrap {
+    position: relative;
+    left: 0;
+}
+.card-body .card {
+    height: auto;
+    width: 97vw!important;
+}
+.carousel {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.nav-home-aside {
+    padding-bottom: 20px;
+    height: 100%;
+    width: auto;
+    height: 100%;
+    overflow: hidden;
+}
+.viewall {
+    justify-content: center;
+    float:none;
+}
+.nav-home-aside .more-category1 li {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+#navContainer .active {
+    position: static!important;
+    width: 100%!important;
+    display: block!important;
+}
+.nav-home-aside .menu-category li:hover .submenu {
+    display: none!important;
+    margin-left: 0;
+}
+.card-product-trend {
+    width: auto;
+    height: auto;
+}
+.card-product-grid {
+    height: auto;
+    width: auto!important;
+}
+.breadcrumb .item-1 {
+    margin-left: 1.5%!important;
+}
+.loginhover {
+    margin: auto;
+}
+.cartside {
+    margin: auto;
+}
+.search-header {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    margin-left: 20px;
+}
+.card-body .card {
+    height: auto;
+    width: 97vw!important;
+}
+.card-product-trend {
+    width: auto;
+    height: auto;
+}
+.card-product-grid {
+    height: auto;
+    width: auto!important;
+}
+.section-main {
+    text-align: center;
+    box-sizing: border-box;
+}
+.section-main .card {
+    max-width: auto;
+}
+.card-deal {
+    height: auto;
+    width: auto;
+}
+.card-sm {
+    height: 100%;
+    width: auto;
+    margin: auto;
+}
+.description1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.line {
+    width: auto!important;
+}
+.card-popular-category {
+    width: auto;
+    height: 210px;
+}
+.advertise {
+    height: auto;
+    width: auto;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+.buttonicon {
+    width: auto;
+    margin-top:5%;
+}
+.google-apple img {
+    width: 25vw;
+}
+.google-apple1 {
+    margin: auto;
+    width: auto;
+}
+.social-button {
+    width: 15vw;
+    margin: 10px auto;
+}
+.well1 .input-group {
+    text-align: center;
+    margin: 5% auto;
+    justify-content: center;
+}
+.well1 {
+    display: grid;
+    justify-items: center;
+}
+.well1 button.btn {
+    width: 57%;
+    height: 35px;
+}
+.well1 input.btn.btn-lg {
+    width: 42%;
+    margin-right: 1px;
+    height: 35px;
+}
+.gridviewdiv {
+    width: auto;
+}
+.filter .custom-control {
+    padding-left: 0;
+}
+#list {
+    margin-left: 0;
+}
+}
+
+@media (max-width:410px) {
+body, html {
+    overflow-x: hidden;
+}
+.lcbuttons {
+    display: flex;
+    justify-content: center;
+    float: none;
+}
+.card-deal .col-heading {
+    min-width: 50%;
+    text-align: left;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.search-header {
+    width: auto;
+}
+.carousel {
+    overflow: hidden;
+    width: auto;
+    margin-top: 5px;
+}
+.title-section {
+    height: auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+.inner select  {
+    width: auto;
+}
+.card {
+    width: -webkit-fill-available;
+    height: auto;
+}
+.nav-home-aside .menu-category li:hover .submenu {
+    display: none;
+    margin-left: 0;
+}
+#navContainer .active {
+    display: block;
+    position: static;
+    width: 100%;
+}
+.nav-home-aside {
+    margin-bottom: 10px;
+    width: auto;
+    min-height: auto;
+}
+.nav-home-aside ul {
+    width: auto;
+    height: auto;
+}
+.nav-home-aside .menu-category li {
+    margin-bottom: 15px;
+    width: 100%;
+}
+.more-category1 label:after {
+    margin-bottom: 5px;
+}
+.more-category1 {
+    width: 100%!important;
+    position: relative;
+    height: auto;
+    border-top: 0;
+    border-bottom: none!important;
+    margin: auto;
+}
+.menu-category li:nth-last-child() {
+    margin-bottom: 15px;
+    overflow: hidden;
+    z-index: 9999;
+    opacity: 1;
+}
+.card-deal {
+    height: auto;
+    width: auto;
+}
+.recentadd {
+    margin: 10px 0 0 0;
+}
+.card-sm {
+    padding-top: 10px;
+    width: auto;
+    height: auto;
+}
+.viewall {
+    justify-content: center;
+    float:none;
+}
+.view {
+    float:none;
+}
+.text-uppercase {
+    margin-bottom: 30px;
+}
+.responsivecard {
+    height: auto;
+}
+.item img {
+    max-width: 150px;
+    position: relative;
+   
+}
+.category-item-card .title{
+    max-width: 165px;  
+}
+.category-item-card .subtitle{
+    max-width: 165px; 
+}
+.card-popular-category {
+    width: auto;
+    height: auto;
+    display: -webkit-box;
+}
+.card-popular-category .col-4 {
+    left: -4%;
+}
+.card-popular-category .text-wrap {
+    width: auto;
+    height: auto;
+    padding-left: 0px!important;
+}
+
+.social-button {
+    width: auto!important;
+    height: auto;
+}
+.google-apple1{
+    width: 40vw;
+    height: auto;
+}
+.buttonicon {
+    width: auto;
+    margin: 30px 0 0 60px!important;
+}
+.title {
+    font-size: 1rem;
+}
+.breadcrumb .item-1 {
+    margin-left: 1%!important;
+}
+.bs-wizard>.bs-wizard-step>.bs-wizard-dot {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    display: block;
+    background: #73a0e7;
+    top: 56px!important;
+    left: 50%;
+    margin-top: 0!important;
+    margin-left: -15px;
+    border-radius: 50%;
+}
+.select {
+    width: auto;
+    height: auto;
+    margin-right: 0;
+}
+.select1 {
+    width: auto;
+    height: auto;
+    margin-right: -19px;
+}
+.gridviewselect {
+    padding: 0;
+    float: none;
+}
+
+.view-group {
+    justify-content: flex-start;
+}
+.view-group .item-1 {
+    width: auto;
+}
+.item1 {
+    height: 100%;
+    width: auto;
+    position: relative;
+    left: 20%;
+}
+.item1 .card-body {
+    padding: 1.25rem;
+    padding-left: 0;
+}
+.item1.list-group-item {
+    height: 200px!important;
+    margin-bottom: 2px;
+    left: 0;
+}
+.description {
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 1!important;
+    -webkit-box-orient: vertical!important;
+}
+#list {
+    margin-left: 2px;
+}
+.item1 .title {
+    overflow: hidden;
+    max-width: auto;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.description1 {
+    overflow: hidden;
+    margin-top: -10px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.productdetails2 {
+    margin-left: 5%!important;
+}
+.detail {
+    margin-top: 25%;
+}
+.main-img img {
+    width: 100%!important;
+}
+.detail-info {
+    margin-left: 3%;
+}
+.button-form {
+    margin-top: 30%;
+}
+.read-more {
+    max-width: 100%;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    visibility: visible;
+}
+.well1 .input-group {
+    text-align: center;
+    margin: 5% auto;
+    justify-content: center;
+}
+.sellpro .ekart {
+    padding-right: 0!important;
+}
+.ekartspec .row {
+    margin-left: auto!important;
+}
+.bs-wizard {
+    width: auto;
+    height: auto;
+}
+.bs-wizard>.bs-wizard-step>.bs-wizard-dot {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    display: block;
+    background: #73a0e7;
+    top: 56px!important;
+    left: 50%;
+    margin-top: 0!important;
+    margin-left: -15px;
+    border-radius: 50%;
+}
+}

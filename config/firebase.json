@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "v2sdigitel-idya",
+  "private_key_id": "dc34441cee32943e61bce0b7fa8978c2ee8508e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmlW/9j5c8gIIO\nrpVKW8TDVEkQCEGUciGAyxTWxxwUoldu5p8KDFEJ/fCSTJyc8L0Zk9JKfa/QvSwm\nh66KeD6MieE5AzYzdgTFWYham0/kMuLINgEmWIea4siAOYSTv9JlIy1j8nHa7h6K\nRTvtm7gMx1dAYucvY5vEe+pMppYx+M8jN761RZY9u4sa/CHOBOd1j6OfvUaVQq9T\n6ox4cFQT+Ka7WBJvPWCKuScUYVPa7JUS8YHJHhhF096JYR4Z+QOJbhNpzFzBkR8M\nNN6XEEKzdOCi+fFZtHhXtBjxg2UQzfGj4QT0Hucolxn9mlIEFwtQY720U3OqDKG+\nJaXJONkpAgMBAAECggEABELpYP6l20XcTdzYc9UCJQ8IaXEUoGQFCGLpjw774GlA\nvFUI93xWLF/DIjL0hK1B4SAfbollkHzuXrP02pT14Kl8SfWTkuBvgc7nBo5Xjlpg\n48dB40W7flJT17fg9Nig3LZ4KEjg8b1KqbXYsRzdKfKFgF+nU1aEexPCbCCM0g1l\nNdw/HTv+411jfGP3kot0so32YcO9O+8Dnv94+fYuUAvZq6SaRDCLcrzXqgTreG5w\nJWEfo3545QtDRZujKjllHSFqZz/gRGErNY99iPP8ruW8NrRi3bq0mLhAotJVTHGV\nhlSWUktkJZswA++KEdvWknkLd7+5gTiMQcclApuNGwKBgQDpiTll+yD9IoHj/8Ba\nzBx+Gr1sepPl2Vrpr73ETOBs+v/BVRrIrbAtwXAQwkmuhcKyezb2Ipuz9P7zSB27\nv5cZkhnwR7P09GD79ktUY4MjYu/u7CCtBClF1EMjb9G+nFWrxCJxeOfwFhxZ1kyL\nlgZd61X58Bj4bIqYB0jl7s/jfwKBgQC2m4bwltpKkGEl9OnIm+aKy1YBIaGNX0Fl\n5ask8eTqCl1Wx4saJUr7d1FsneUHFTJZHXOwvQP5WPohGeF2YLXYyJkm7OnUaGqb\ndCxoT5F0FIVipPe4NxHAdWp9x3tsdqAh2Z6P/L9Vl+MtnrTFEjsP1pFS9BH6N8YR\nmttoUW33VwKBgQCskq/ssWfORyqu/jX5oq1HbqEdwXL7PeQVnb1giuKpBc3q4uXY\n96iiFzil2byzD7sxQyX5OtfOYrPnuRnnvIt+5NzwFzxfPhtQ9c7yvFqS0rC04J7A\n27tYE6PNUvsunL4eIODG826Jlv06Ucbcu29XBenRuV/qa+L6tx9iclgDJwKBgCv4\nlWy3lobf71S5fdX9nG0Ne384PvOQ3WmQ/T4fNVUZ+9HaqOc51a1p1OSHvM+Qzhfh\nXKtRSHSxdUGlPsJHlWJHI4HZCJFKN2mJduwDRO4jxt6zBKeKMy8Z1vPEpja+9d5Q\nzbq0TMpqkZy5m6PcuPYeX84O0YlkBsDUfkLHYOhvAoGAMbPieIqwmyeRAPC5ipwT\nN2PVdpT+WX8rhGDuEJKuVgOAZZFAYVREoGDXo72saAzb4viK+CFUGGjGHMS1FwT5\n/YUXyu4+wLFqWN30uhT0tDFEnN/4nnV4553l41gYsa/3s2cwnl24Sa2V+431IBZN\nrHxCQYwewiZbJHJTmKaeXZE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aimlw@v2sdigitel-idya.iam.gserviceaccount.com",
+  "client_id": "109717386064244975311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aimlw%40v2sdigitel-idya.iam.gserviceaccount.com"
+}
